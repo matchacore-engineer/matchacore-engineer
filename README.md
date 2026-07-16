@@ -25,12 +25,18 @@
 
 ## 👤 Mon parcours
 
-✅ BUT Science des Donnée VCOD 
--> 🇦🇹 Stage à la Johannes Kepler Universität - Machine Learning : Prévision de données avec Random Forest et XGBoost
--> 🌊 Alternance à Retour de Plage - Assistant Science des Données : Conception d'outils décisionnels en VBA et Python
+### ✅ BUT Science des Données — VCOD
 
-🚀 CNAM Ingénieur SDIA
--> 🌊 Assistant Data Scientist à Retour de Plage
+| | |
+|---|---|
+| 🇦🇹 **Stage — Johannes Kepler Universität** | Machine Learning : prévision de données avec Random Forest et XGBoost |
+| 🌊 **Alternance — Retour de Plage** *(Assistant Science des Données)* | Conception d'outils décisionnels en VBA et Python |
+
+### 🚀 CNAM — Ingénieur SDIA *(en cours)*
+
+| | |
+|---|---|
+| 🌊 **Retour de Plage** *(Assistant Data Scientist)* | Poursuite de la collaboration en tant que Data Scientist |
 
 ## 🛠️ Stack technique
 
