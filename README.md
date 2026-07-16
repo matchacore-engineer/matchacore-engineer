@@ -1,41 +1,34 @@
 <div align="center">
 
-# Salut, moi c'est Rémi Pierron 👋
+# Hello, je suis Rémi Pierron 👾
 
 ```
 ┌──────────────────────────────────────────────────┐
 │  matchacore-engineer@github                      │
 ├──────────────────────────────────────────────────┤
-│  OS         : Étudiant Ingénieur Data & IA       │
-│  Host       : Bordeaux, France                   │
+│  OS         : macOS and Linux                    │
+│  Host       : Niort, France                      │
 │  Kernel     : BUT Science des Données            │
-│  Uptime     : CNAM - Ingénierie SD & IA          │
+│  Uptime     : CNAM - Ingénieur SD & IA           │
 │  Shell      : zsh                                │
-│  Langages   : Python, SQL, R                     │
-│  Frameworks : PyTorch, TensorFlow, sklearn       │
+│  Langages   : Python, R                          │
+│  Frameworks : Scikit Learn, TensorFlow,          │
 │  Outils     : Jupyter, Pandas, NumPy             │
-│  Cloud      : AWS, GCP                           │
+│  Cloud      : Raspberry PI 5                     │
 │  Éditeur    : VS Code                            │
-│  CPU        : Café ☕ [||||||||||] 100%          │
-│  Spécialité : Pipelines ML & outils décisionnels │
+│  Machine    : Mac mini M4 Pro 48GB               │
+│  Agent      : Claude Code                        │
 └──────────────────────────────────────────────────┘
 ```
 
 </div>
 
-## 🧠 À propos de moi
+## 👤 moi
 
-Titulaire d'un **BUT Science des Données**, je poursuis actuellement mes études au **CNAM en Ingénierie Science des Données et Intelligence Artificielle**, en parallèle d'un poste d'**Assistant Data Scientist**.
+✅ BUT Science des Donnée VCOD
+🚀 CNAM Ingénieur SDIA
 
-Je me spécialise dans le **développement d'outils décisionnels** et d'**applications automatisées avec pipelines ML intégrées**.
-
-- 🎓 Actuellement en formation d'ingénieur au **CNAM** (Science des Données & IA)
-- 💼 **Assistant Data Scientist** en poste actuellement
-- 🏢 Précédemment **Assistant Science des Données** chez **Retour de Plage** (3ème année de BUT)
-- 🔭 Je travaille actuellement sur des **pipelines ML** et outils **décisionnels/automatisés**
-- 🌱 J'apprends en ce moment à approfondir le **MLOps** et l'industrialisation de modèles
-- 💬 Demandez-moi tout sur **la Data Science, les pipelines ML, le décisionnel**
-- 📫 Me contacter : voir liens ci-dessous
+🌊 Assistant Data Scientist à Retour de Plage
 
 ## 🛠️ Stack technique
 
@@ -58,12 +51,6 @@ Je me spécialise dans le **développement d'outils décisionnels** et d'**appli
 ![Top langages](https://github-readme-stats.vercel.app/api/top-langs/?username=matchacore-engineer&layout=compact&theme=radical&hide_border=true)
 
 </div>
-
-## 🚀 Projets phares
-
-- **[Nom du projet 1](lien-vers-le-repo)** — pipeline ML automatisé pour [cas d'usage]
-- **[Nom du projet 2](lien-vers-le-repo)** — outil décisionnel / dashboard pour [contexte]
-- **[Nom du projet 3](lien-vers-le-repo)** — projet réalisé chez Retour de Plage ou en BUT SD
 
 ## 📫 Me contacter
 
